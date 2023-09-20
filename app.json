@@ -17,7 +17,7 @@
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and enter it's api token",
-            "value": "5606588712:AAHWff-ZhBpeOrGnnrjKg-8ciATLqfRzxsk"
+            "value": ""
         },
         "OWNER": {
             "description": "Put ids of user which can access the bot e.g 123456789",
