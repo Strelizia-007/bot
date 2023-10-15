@@ -15,7 +15,7 @@ try:
 except Exception as er:
     LOGS.info(er)
 
-
+speedtest
 ####### GENERAL CMDS ########
 
 @bot.on(events.NewMessage(pattern="/start"))
