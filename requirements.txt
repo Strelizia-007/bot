@@ -1,4 +1,3 @@
-speedtest
 aiohttp
 python-decouple
 pyaesni
